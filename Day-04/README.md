@@ -1,3 +1,21 @@
-## Write a c program to input number to two variable and swap them without 3rd variable
-   /*program to swap*/
+ ## C program to input number to two variables and swap them without using 3rd variable 
    
+    #include<stdio.h>  
+    void main()
+    {
+    int a,b;
+    printf("a=");
+    scanf("%d",&a);
+    printf("b=");
+    scanf("%d",&b);
+
+    a=a+b;
+    b=a-b;
+    a=a-b;
+
+    printf("\na=%d \nb=%d",a,b);
+    
+    }
+
+
+    
