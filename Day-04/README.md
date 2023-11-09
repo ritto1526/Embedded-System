@@ -33,3 +33,20 @@
     printf("\nc=%f\nF=%f",a,b);
     
      }
+
+
+  ## C program to reverse a two digit number
+   
+    #include<stdio.h>  
+    void main()
+     {
+    int a,b,c;
+    printf("enter a two digit number");
+    scanf("%d",&a);
+   
+    b=a%10;
+    c=a/10;
+    printf("Before-swap:%d\n",a);
+    printf("After-swap:%d%d\n",b,c);
+    
+     }
