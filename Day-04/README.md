@@ -66,3 +66,18 @@
     printf("\nReminder=%d\n",d);
     
      }
+
+   ## c program to find cube of a number 
+
+      #include<stdio.h>
+      void main()
+      { 
+      int a,b;
+
+      printf("enter a number");
+      scanf("%d",&a);
+
+      b=a*a*a;
+
+      printf("%d^3=%d",a,b);
+      }
