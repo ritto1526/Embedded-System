@@ -5,6 +5,8 @@
 - Programming is used to convert a high level language to low level language 
 - High level languages (C,C++,Python)----------------> Low level language (Assembly Language,Machine Language)
 - HL----->AL (compiler) : AL ------->ML (Assembler)
-- C is also a middle level language.
+- C is also a middle level language. Created By Dennis Ritchie.
+- Escape Secuences --> \n | \t | \r | \a | \b | \"
+- 
                                     
 
