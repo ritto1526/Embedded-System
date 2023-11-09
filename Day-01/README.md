@@ -11,7 +11,7 @@
 - eg: Codeblocks,Devc++,Vscode
 - compilers eg: GCC,Ming w, Clan
 
--Structute of C Program
+- Structute of C Program
   -`/* First C program */ #Documentation section
   #include<stdio.h>  #Header file `
 
