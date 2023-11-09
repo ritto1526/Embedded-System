@@ -1,6 +1,6 @@
-## steps to run a c program in ubuntu 
+## Steps to run a c program in ubuntu 
 
-- move to the required directory using `cd` command
-- to open vim editor `vim.tiny "filename.c"`
-- to compile `gcc "filename.c"`
-- to print output `./a.out`
+- Move to the required directory using `cd ____/____` command
+- To open vim editor `vim.tiny "filename.c"`
+- To compile `gcc "filename.c"`
+- To print output `./a.out`
