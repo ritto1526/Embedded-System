@@ -50,3 +50,19 @@
     printf("After-swap:%d%d\n",b,c);
     
      }
+
+  ## C program to find the reminder and quotient 
+   
+    #include<stdio.h>  
+    void main()
+     {
+    int a,b,c,d;
+    printf("enter a devisor and divident");
+    scanf("%d%d",&a,&b);
+   
+    c=a/b;
+    d=a%b;
+    printf("Quotient=%d",c);
+    printf("\nReminder=%d\n",d);
+    
+     }
