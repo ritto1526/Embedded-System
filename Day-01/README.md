@@ -1,1 +1,10 @@
-# Day 1
+# Day 1=> 6/11
+
+## Introduction
+
+Programming is used to convert a high level language to low level language 
+High level languages (C,C++,Python)----------------> Low level language (Assembly Language,Machine Language)
+HL----->AL (compiler) : AL ------->ML (Assemblr)
+C is also a middle level language.
+                                    
+
