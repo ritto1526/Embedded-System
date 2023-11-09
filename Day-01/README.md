@@ -13,5 +13,5 @@
 
 -Structute of C Program
   `/* First C program */ #Documentation section
-  #include<stdio.h>  #Header file 
+  #include<stdio.h>  #Header file `
 
