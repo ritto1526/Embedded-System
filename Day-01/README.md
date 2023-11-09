@@ -14,4 +14,10 @@
  ## Structute of C Program
     /* First C program */ #Documentation section
     #include<stdio.h>  #Header file 
+    void main()
+    {
+    printf("Hello World !"); #body 
+    }
+
+    
 
