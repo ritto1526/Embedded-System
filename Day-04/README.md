@@ -19,3 +19,17 @@
 
 
     
+ ## C program to enter temperature in celcious and convert it to fahrenheit
+   
+    #include<stdio.h>  
+    void main()
+     {
+    float a,b;
+    printf("enter temperature in C ");
+    scanf("%f",&a);
+   
+    b=(a*(9.0/5.0))+32;
+   
+    printf("\nc=%f\nF=%f",a,b);
+    
+     }
