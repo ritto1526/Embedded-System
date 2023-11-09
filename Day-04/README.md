@@ -19,7 +19,7 @@
 
 
     
- ## C program to enter temperature in celcious and convert it to fahrenheit
+ ## C program to enter temperature in C and convert it to F
    
     #include<stdio.h>  
     void main()
