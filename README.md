@@ -14,3 +14,5 @@ ith does the following-
 - the code is in ldr.c
 - copy and paste in mplab and do the symulation 
 - circuit design is in project.DSN
+
+![image](https://github.com/ritto1526/Saftey-and-Security-System/assets/116656596/c09dd976-1755-47ac-b59e-bd6c9ef1cd1c)
