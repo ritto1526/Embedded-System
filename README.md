@@ -8,5 +8,9 @@ ith does the following-
 2. when the temperation goes up a limit the fan will be turned on
 3. an intrution detection also includded as consern of saftey
 
-   uart communication is also done
-   External intupt is also used 
+   - uart communication is also done
+   - External intupt is also used 
+
+- the code is in ldr.c
+- copy and paste in mplab and do the symulation 
+- circuit design is in project.DSN
